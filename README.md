@@ -18,11 +18,8 @@
 
 영상 : 
 
-[2024-05-25 21-51-01.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/1518e44f-f3dc-4f36-a0a0-bff0094389c7/a6766fdc-4712-48eb-87f3-fa08e3662d7e/2024-05-25_21-51-01.mp4)
 
-**게임 안내서 :** 
 
-[jam0_유민경(y071812).pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/1518e44f-f3dc-4f36-a0a0-bff0094389c7/e9048f17-cd46-4467-98f3-334b0d2ee236/jam0_%EC%9C%A0%EB%AF%BC%EA%B2%BD(y071812).pdf)
 
 마우스 우클릭 : 버블 소환
 
@@ -32,4 +29,4 @@ A / D : 왼쪽/오른쪽 이동
 
 Space : 점프
 
-**깃헙 :**
+![image](https://github.com/user-attachments/assets/a709a311-457b-4675-a636-21e270e84c46)
